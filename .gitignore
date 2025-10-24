@@ -2,9 +2,11 @@
 *.class
 *.o
 *.exe
+*.zip
+*.docx
+*.pdf
 
 
-*.log
 *.tmp
 
 
