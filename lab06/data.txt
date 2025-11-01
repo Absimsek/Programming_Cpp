@@ -1,0 +1,10 @@
+Toyota 2020
+Honda 2018
+Ford 2022
+Chevrolet 2019
+BMW 2021
+Audi 2017
+Mercedes 2023
+Volkswagen 2016
+Nissan 2020
+Hyundai 2024
